@@ -1,0 +1,14 @@
+.chat_box {
+    border: 1px solid gray;
+   margin-left: 38%;
+   height: 300px;
+   display: block;
+}
+.in {
+    margin-left: 33%;
+}
+.name {
+    display: block;
+    margin-left: 45%;
+    margin-top: 1rem !important;
+}
